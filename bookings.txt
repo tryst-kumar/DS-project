@@ -1,0 +1,3 @@
+Movie: Inception, Cinema: Cinema 1, Time: 2:00 PM, Seat: (2,3)
+Movie: Pulp Fiction, Cinema: Cinema 1, Time: 10:00 AM, Seat: (1,5)
+Movie: Inception, Cinema: Cinema 1, Time: 2:00 PM, Seat: (2,2)
